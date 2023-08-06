@@ -1,0 +1,1 @@
+# clphirata-kumoben-azuread-staticapp
